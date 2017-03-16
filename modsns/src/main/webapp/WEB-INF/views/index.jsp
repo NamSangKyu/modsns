@@ -53,7 +53,7 @@
 			width:25%;
 			height: 500px;
 			border:1px solid black;
-			border-radius: 10px;
+			border-radius: 5px;
 			margin:0px 30px;
 			display: inline-block;
 		}
@@ -115,7 +115,14 @@
 	</nav>
 	<section>
 		<article>
-			내용
+			<!-- 이미지 -->
+			<div></div>
+			<!-- 프사, 아이디 제목 -->
+			<div></div>
+			<!-- 간략 내용 -->
+			<div></div>
+			<!-- 추천, 비추, 답글 -->
+			<div></div>
 		</article>
 		<article>
 			내용
